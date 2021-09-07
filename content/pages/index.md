@@ -126,7 +126,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Alyvia really understands who our customers are and what tone of the
+          Kinco really understands who our customers are and what tone of the
           voice to use when communicating with them.
 
 
